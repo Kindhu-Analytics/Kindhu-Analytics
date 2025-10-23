@@ -2,55 +2,46 @@
   <img src="profile_banner_kindhujan.png" width="100%" alt="Kindhujan Mahendiran Banner">
 </p>
 
-# 👋 Hi, I'm Kindhujan Mahendiran
+# 👋 Hi, I'm Kindhujan Mahendiran  
 
-### 🚀 Agile & Operations Project Manager | Data & Process Analytics Enthusiast
-
-Welcome to my portfolio dashboard — showcasing real-world Agile project delivery and process improvement.
+### 🚀 Agile & Operations Project Manager | Data & Process Analytics Enthusiast  
 
 ---
 
-## ✈️ Air Canada 5-Point Scanning Project (2022 – 2025)
-
-**Goal:** Improve baggage tracking visibility and reduce mishandled bags through five key scanning touchpoints integrated into the Air Canada mobile app.
-
-**Highlights**
-- Scan-compliance improved **65 % → 90 %**
-- Mishandled-bag rate reduced by **30 %**
-- Real-time bag visibility across domestic and U.S. routes
+## ✈️ Air Canada 5-Point Scanning Project
+**Goal:** Real-time baggage visibility with 5 scan touchpoints integrated into the Air Canada mobile app.  
+**Highlights:**  
+- Scan compliance improved from **65 % → 90 %**  
+- Mishandled-bag rate reduced by **30 %**  
 
 <div align="center">
-
-<img src="scan_compliance_2022_2025.png" width="48%">
-<img src="mishandled_per_1000_2022_2025.png" width="48%">
-
+  <img src="scan_compliance_2022_2025.png" width="48%">
+  <img src="mishandled_per_1000_2022_2025.png" width="48%">
 </div>
 
 [➡️ View Full Case Study](https://github.com/Kindhu-Analytics/air-canada-baggage-tracking-5point)
 
 ---
 
-## 📚 Data & Logistics Projects
+## 📊 Other Projects  
 
 ### [Initial Repository](https://github.com/Kindhu-Analytics/Initial-Repository)
-📍 *SQL, Tableau, and analytics projects exploring logistics & service patterns.*  
-Projects featured:  
-- Toronto 311 Dashboard  
-- 407 ETR Cost Tracker  
+🗂️ SQL, Tableau & data-driven dashboards for logistics and service pattern insights.  
+Projects: **Toronto 311 Dashboard**, **407 ETR Cost Tracker**
 
 ---
 
-## 🧠 Agile & Systems Projects
-
-### [Air Canada 5-Point Scanning Project](https://github.com/Kindhu-Analytics/air-canada-baggage-tracking-5point)
-📍 *Agile case study improving baggage tracking visibility (2022–2025)*  
-
----
-
-### 🧠 About Me
-📍 Toronto, ON  
-🔗 [Personal Site](https://mkindhu47.wixsite.com/momentumiq)
+### [Agile Project Performance Dashboard](https://github.com/Kindhu-Analytics/agile-project-performance-dashboard)
+📈 Velocity, capacity, and throughput analytics for Agile teams.  
+Tools: **Power BI**, **Python**, **Excel**
 
 ---
 
-*Made with ❤️ using Agile principles & continuous improvement mindset.*
+### [Operations Process Automation Case Study](https://github.com/Kindhu-Analytics/ops-process-automation-case-study)
+⚙️ Automating daily ops reporting using Python — 90 % less manual work.  
+
+---
+
+## 🧠 About Me  
+📍 Toronto, ON  •  💼 Air Canada  
+🔗 [Portfolio Website](https://mkindhu47.wixsite.com/momentumiq)
