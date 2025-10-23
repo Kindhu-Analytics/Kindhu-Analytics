@@ -29,6 +29,12 @@
 🗂️ SQL, Tableau & data-driven dashboards for logistics and service pattern insights.  
 Projects: **Toronto 311 Dashboard**, **407 ETR Cost Tracker**
 
+### [📊 Toronto 311 Dashboard](https://github.com/Kindhu-Analytics/toronto-311-dashboard)
+*Visualizing service request patterns by district and tracking SLA response times.*
+
+### [🚗 407 ETR Cost Tracker](https://github.com/Kindhu-Analytics/407-etr-cost-tracker)
+*Mapping usage spikes and cost trends over time with predictive analytics.*
+
 ---
 
 ### [Agile Project Performance Dashboard](https://github.com/Kindhu-Analytics/agile-project-performance-dashboard)
