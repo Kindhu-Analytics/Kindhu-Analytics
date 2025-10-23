@@ -16,7 +16,7 @@ Real-time baggage visibility via five scan touchpoints integrated into the mobil
 </div>
 
 <p align="center">
-  <a href="https://github.com/Kindhu-Analytics/air-canada-baggage-tracking-5point"><b>→ View Full Case Study</b></a>
+  <a href="https://github.com/Kindhu-Analytics/air-canada-baggage-tracking-5point"><b>→ Open project </b></a>
 </p>
 
 ---
