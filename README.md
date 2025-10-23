@@ -26,9 +26,25 @@ Welcome to my portfolio dashboard — showcasing real-world Agile project delive
 
 ---
 
+## 📚 Data & Logistics Projects
+
+### [Initial Repository](https://github.com/Kindhu-Analytics/Initial-Repository)
+📍 *SQL, Tableau, and analytics projects exploring logistics & service patterns.*  
+Projects featured:  
+- Toronto 311 Dashboard  
+- 407 ETR Cost Tracker  
+
+---
+
+## 🧠 Agile & Systems Projects
+
+### [Air Canada 5-Point Scanning Project](https://github.com/Kindhu-Analytics/air-canada-baggage-tracking-5point)
+📍 *Agile case study improving baggage tracking visibility (2022–2025)*  
+
+---
+
 ### 🧠 About Me
 📍 Toronto, ON  
-💼 Currently with **Air Canada**  
 🔗 [Personal Site](https://mkindhu47.wixsite.com/momentumiq)
 
 ---
