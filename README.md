@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="profile_banner_kindhujan.png" width="100%" alt="Kindhujan Mahendiran Banner">
+</p>
+
 # 👋 Hi, I'm Kindhujan Mahendiran
 
 ### 🚀 Agile & Operations Project Manager | Data & Process Analytics Enthusiast
