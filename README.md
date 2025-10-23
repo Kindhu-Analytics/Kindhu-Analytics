@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Kindhujan Mahendiran
 
-### 🚀 Agile & Operations Project Manager | Data & Process Analytics Enthusiast  
+### 🚀 Agile & Operations Project Manager | Data & Process Analytics Enthusiast
 
-Welcome to my portfolio dashboard — showcasing hands-on Agile project delivery and data-driven process improvements.
+Welcome to my portfolio dashboard — showcasing real-world Agile project delivery and process improvement.
 
 ---
 
 ## ✈️ Air Canada 5-Point Scanning Project (2022 – 2025)
 
-**Goal:** Improve baggage tracking visibility and reduce mishandled bags through 5 key scanning touchpoints integrated into the Air Canada app.
+**Goal:** Improve baggage tracking visibility and reduce mishandled bags through five key scanning touchpoints integrated into the Air Canada mobile app.
 
 **Highlights**
 - Scan-compliance improved **65 % → 90 %**
@@ -16,8 +16,10 @@ Welcome to my portfolio dashboard — showcasing hands-on Agile project delivery
 - Real-time bag visibility across domestic and U.S. routes
 
 <div align="center">
+
 <img src="scan_compliance_2022_2025.png" width="48%">
 <img src="mishandled_per_1000_2022_2025.png" width="48%">
+
 </div>
 
 [➡️ View Full Case Study](https://github.com/Kindhu-Analytics/air-canada-baggage-tracking-5point)
