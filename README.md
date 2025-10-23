@@ -21,13 +21,9 @@
 
 [➡️ View Full Case Study](https://github.com/Kindhu-Analytics/air-canada-baggage-tracking-5point)
 
+
 ---
 
-## 📊 Other Projects  
-
-### [Initial Repository](https://github.com/Kindhu-Analytics/Initial-Repository)
-🗂️ SQL, Tableau & data-driven dashboards for logistics and service pattern insights.  
-Projects: **Toronto 311 Dashboard**, **407 ETR Cost Tracker**
 
 ## 📚 Data & Analytics Projects
 
